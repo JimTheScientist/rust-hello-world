@@ -4,7 +4,7 @@ I am learning Rust in order to further my capabilities as a software and compute
 
 The following software prints "Hello, world!" to the command line. It has no other purpose.
 
-[Software Demo Video](https://youtu.be/Y7droT0DWNQ)
+[Software Demo Video](https://youtu.be/9gjgw9LPrX8)
 
 # Development Environment
 
